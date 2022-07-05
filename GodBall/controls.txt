@@ -1,0 +1,10 @@
+Move Camera: Right Click and drag or Arrow Keys, Scroll wheel to zoom
+
+Raise Terrain: Left Click
+Lower Terrain: Shift-Left Click
+
+Start Play state from any other state: Enter/Return
+Start rolling from editing: P
+Start editing from rolling: P
+Return to the editor: R
+Reset the whole level including the terrain: Y
